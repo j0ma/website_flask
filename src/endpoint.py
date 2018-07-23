@@ -3,7 +3,7 @@
 # (c) jonne saleva, 2018
 
 # imports
-from flask import Flask, request, jsonify, abort
+from flask import Flask, request, jsonify, abort, render_template
 from flask_cors import CORS
 from src.helpers import *
 import logging
@@ -16,4 +16,12 @@ CORS(app)
 ###### ROUTES ######
 @app.route('/', methods=['GET'], strict_slashes=False)
 def index():
-    return 'Hello World'
+    return render_template('index.html')
+
+@app.route('/research', strict_slashes=False)
+def research():
+    return render_template('research.html')
+
+@app.route('/portfolio', strict_slashes=False)
+def portfolio():
+    return render_template('portfolio.html')
