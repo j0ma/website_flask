@@ -43,7 +43,7 @@ Originally from Finland, I'm a graduate of Harvard College, with a B.A. in Stati
 ## projects, stuff, etc.
 
 - [Portfolio](/portfolio) of my past work related to machine learning
-- my [blog](http://blog.jonnesaleva.com) on NLP, machine learning, probability, and life
+- my [blog](http://blog.jonnesaleva.com) on NLP, machine learning, probability, and life in general.
 
 ## coursework
 
