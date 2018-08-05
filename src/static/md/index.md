@@ -26,8 +26,6 @@
 
 <div id='container'>
 
-<div id='profile'>![](../static/img/tacheles.png)</div>
-
 
 
 Hi there, I'm Jonne.
