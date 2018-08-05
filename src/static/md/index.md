@@ -28,7 +28,7 @@
 
 <div id='container'>
 
-Originally from Finland, I'm a graduate of Harvard College, where I got a B.A. in Statistics, with a good bit of Computer Science and Yiddish thrown into the mix. I love machine learning and languages, and am currently working as a Data Scientist at [Haave, Inc](https://www.haave.io), focusing on Natural Language Processing and Information Retrieval.
+Originally from Finland, I'm a graduate of Harvard College, where I got a B.A. in Statistics, with a good bit of Computer Science and Yiddish thrown into the mix. l'm currently working as a Data Scientist at [Haave, Inc](https://www.haave.io), focusing on Natural Language Processing and Information Retrieval.
 
 ## research, teaching, etc.
 
