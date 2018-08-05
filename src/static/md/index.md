@@ -24,6 +24,8 @@
 
 ---
 
+<div id='profile'>![](../static/img/tacheles.png)</div>
+
 <div id='container'>
 
 Originally from Finland, I'm a graduate of Harvard College, with a B.A. in Statistics, Computer Science and Yiddish. I'm currently working at [Haave, Inc](https://www.haave.io) as a Data Scientist focusing on Natural Language Processing and Information Retrieval.
