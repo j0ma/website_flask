@@ -34,13 +34,11 @@ Hi there, I'm Jonne.
 
 Originally from Finland, I'm a graduate of Harvard College, with a B.A. in Statistics, Computer Science and Yiddish. I'm currently working at [Haave, Inc](https://www.haave.io) as a Data Scientist focusing on Natural Language Processing and Information Retrieval.
 
-Feel free to have a look at my [past work](portfolio.html), check out my [resume](data/resume.pdf), and get in touch! 
-
 ## research, teaching, etc.
 
 - Research on low-resource ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>* 
 - Teaching Fellow, *Stat 139: Introduction to Statistical Modeling <small>(2015)</small>* 
-- Student Researcher, *CS50: Introduction to Computer Science <small>(2015)</small>* 
+- Research / Data Science Intern, *CS50: Introduction to Computer Science <small>(2015)</small>* 
 
 ## projects, stuff, etc.
 
