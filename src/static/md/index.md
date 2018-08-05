@@ -8,13 +8,13 @@
 
 <tr>
 
-  <td>[Home](index.html)</td>
+  <td>[Home](/)</td>
 
-  <td>[Research](research.html)</td>
+  <td>[Research](/research)</td>
 
-  <td>[Portfolio](portfolio.html)</td>
+  <td>[Portfolio](/portfolio)</td>
 
-  <td>[Resume](data/resume.pdf)</td>
+  <td>[Resume](#)</td>
 
   <td>[Blog](http://blog.jonnesaleva.com)</td>
 
@@ -42,7 +42,7 @@ Originally from Finland, I'm a graduate of Harvard College, with a B.A. in Stati
 
 ## projects, stuff, etc.
 
-- [Portfolio](portfolio.html) of my past work related to machine learning
+- [Portfolio](/portfolio) of my past work related to machine learning
 - my [blog](http://blog.jonnesaleva.com) on NLP, machine learning, probability, and life
 
 ## coursework

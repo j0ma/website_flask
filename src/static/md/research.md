@@ -8,13 +8,13 @@
 
 <tr>
 
-  <td>[Home](index.html)</td>
+  <td>[Home](/)</td>
 
-  <td>[Research](research.html)</td>
+  <td>[Research](/research)</td>
 
-  <td>[Portfolio](portfolio.html)</td>
+  <td>[Portfolio](/portfolio)</td>
 
-  <td>[Resume](data/resume.pdf)</td>
+  <td>[Resume](#)</td>
 
   <td>[Blog](http://blog.jonnesaleva.com)</td>
 
