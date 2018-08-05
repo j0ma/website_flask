@@ -14,7 +14,7 @@
 
   <td>[Portfolio](/portfolio)</td>
 
-  <td>[Resume](#)</td>
+  <td>[Resume](/resume)</td>
 
   <td>[Blog](http://blog.jonnesaleva.com)</td>
 
