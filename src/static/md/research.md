@@ -28,7 +28,7 @@
 
 My main interests are machine learning and language. But since that kind of covers almost everything, a low-dimensional projection of my interests could be:
 
-- **representation learning:** how to build models that minimize reliance on expert supervision and domain knowledge? can we be sure of our representations? can we be bayesian and quantify that using probabilities?
+- **representation learning:** how can we engineer representations that, on the one hand, contain all of our prior information, yet also aid in generatlization? can we be sure of our representations? can we be bayesian and quantify that uncertainty using probabilities?
 - **low-resource speech recognition:** what to do when there are (almost) no resources available for a language?
 - **"meta" machine learning:** bayesian optimization in training, hyperparameter selection. also learning-to-learn, like composing primitive operations to learn representations of categories.
 
