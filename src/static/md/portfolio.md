@@ -24,9 +24,7 @@
 
 ---
 
-Here are some projects I am working / have worked on, mostly centered around machine learning, nlp and speech recognition. Feel free to check out the project descriptions, see the rest of my work on [Github](www.github.com/j0ma) and get in touch if you have questions!
-
-<u>Update:</u> Since pretty much all job descriptions require the 
+Here are some projects I am working / have worked on, mostly centered around machine learning, nlp and speech recognition. Feel free to check out the rest of my work on [Github](www.github.com/j0ma) and get in touch if you have questions!
 
 ### current work
 
