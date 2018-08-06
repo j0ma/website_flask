@@ -52,6 +52,8 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 
 </div>
 
+<br>
+
 <div>
 
 - AM 207: Stochastic Methods for Optimization and Inference
