@@ -46,7 +46,7 @@ Finally, as a product of [open online educational resources](http://www.khanacad
 
 <tr>
 
-  <td>© Jonne Sälevä, 2017 || inspired by [cfdenton](https://cfdenton.github.io)</td>
+  <td>© Jonne Sälevä, 2018 || inspired by [cfdenton](https://cfdenton.github.io)</td>
 
 </tr>
 

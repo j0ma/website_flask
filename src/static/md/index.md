@@ -65,7 +65,7 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 
 <tr>
 
-  <td>© Jonne Sälevä, 2017 || inspired by [cfdenton](https://cfdenton.github.io)</td>
+  <td>© Jonne Sälevä, 2018 || inspired by [cfdenton](https://cfdenton.github.io)</td>
 
 </tr>
 
