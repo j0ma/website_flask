@@ -30,5 +30,4 @@ def portfolio():
 
 @app.route('/resume', strict_slashes=False)
 def resume():
-    #return redirect(RESUME_URL)
-    return render_template('resume.html')
+    return redirect(RESUME_URL)
