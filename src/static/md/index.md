@@ -45,6 +45,13 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 
 ## coursework
 
+#### In progress
+
+- Advanced Machine Learning Specialization @ Coursera
+- Algorithms & Data Structures @ Coursera
+
+#### At Harvard
+
 - AM 207: Stochastic Methods for Optimization and Inference
 - CS 207: Systems Building for Computational Science
 - CS 181: Machine Learning
