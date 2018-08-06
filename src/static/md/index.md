@@ -47,8 +47,8 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 
 <div>
 
-- Advanced Machine Learning Specialization @ Coursera
-- Algorithms & Data Structures @ Coursera
+- Coursera: Advanced Machine Learning Specialization (<small>in progress</small>)
+- Coursera: Algorithms & Data Structures @ Coursera (<small>in progress</small>)
 
 </div>
 
