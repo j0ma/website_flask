@@ -38,7 +38,7 @@ Here are some projects I am working / have worked on, mostly centered around mac
 - automatic speech recognition for extremely low-resource languages <small>(aka yiddish, lol)</small>
 - human-level essay grading using NLP and gradient boosted trees
 - malware detection in xml logs using n-gram language models
-- this website (![]('../static/img/smol_flask.jpg')
+- this website (![]('../static/img/smol_flask_logo.jpg')
 
 ---
 
