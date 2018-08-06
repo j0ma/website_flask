@@ -28,14 +28,15 @@ Here are some projects I am working / have worked on, mostly centered around mac
 
 ### current work
 
-- Something for the [OpenEdAI.org Hackathon ;)](www.opened.ai)
-- Bayesian Unsupervised learning for speech unit discovery
-- contributions/tutorials for the [edward](www.edwardlib.org) and [pymc3](https://pymc-devs.github.io/pymc3/) libraries
+- building search engines based on word embeddings at [haave](https://www.haave.io) (aka *muh job*, 😎)
+- yiddish orthographic normalization & ocr (*in progress*)
 
 ### past work
 
+This mostly stuff I did at Harvard; I'll port the write-ups to HTML in due course.
+
 - automatic speech recognition for extremely low-resource languages
-- human-level essay grading using NLP and gradient boosting
+- human-level essay grading using NLP and gradient boosted trees
 - malware detection in xml logs using n-gram language models
 
 ---
