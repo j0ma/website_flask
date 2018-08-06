@@ -34,9 +34,9 @@ My main interests are machine learning and language. But since that kind of cove
 
 Beyond the above, I'm generally curious about bayesian machine learning and the many fields utilizing probabilistic models to solve their problems.
 
-I also love well-made visualizations, and strongly believe that we ought to visualize not only raw data, but model inferences and uncertainty as well. I also like interactive explanations and , and have recently been thinking about research interfaces and workflows, influenced by [Andrew Gelman](www.andrewgelman.com) and the recent goings-on of the [Stan project](www.mc-stan.org).
+I also love well-made visualizations, and strongly believe that we ought to visualize not only raw data, but model inferences and uncertainty as well. I also like interactive explanations and , and have recently been thinking about research interfaces and workflows, influenced by [Andrew Gelman](https://www.andrewgelman.com) and the recent goings-on of the [Stan project](https://www.mc-stan.org).
 
-Finally, as a product of [open online educational resources](www.khanacademy.org) myself, I believe that all of the above can and should be applied to educating people and openly sharing knowledge online.
+Finally, as a product of [open online educational resources](http://www.khanacademy.org) myself, I believe that all of the above can and should be applied to educating people and openly sharing knowledge online.
 
 </div>
 
