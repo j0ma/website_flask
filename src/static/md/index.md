@@ -46,7 +46,7 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 ## coursework
 
 - Coursera: Advanced Machine Learning Specialization (<small>in progress</small>)
-- Coursera: Algorithms & Data Structures Specialization (<small>in progress</small>)
+- Coursera: Algorithms & Data Structures Specialization(<small>in progress</small>)
 - AM 207: Stochastic Methods for Optimization and Inference
 - CS 207: Systems Building for Computational Science
 - CS 181: Machine Learning
@@ -57,7 +57,7 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 ## get in touch
 
 - any of: [github](https://www.github.com/j0ma), [linkedin](https://linkedin.com/in/jonnesaleva), [twitter](https://twitter.com/jonnesaleva)
-- email: first.last@gmail.com (*sans* umlauts)
+- email: `jonne.k.saleva (at) pm.me`
 
 </div>
 
