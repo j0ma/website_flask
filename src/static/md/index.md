@@ -57,7 +57,7 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 ## get in touch
 
 - any of: [github](https://www.github.com/j0ma), [linkedin](https://linkedin.com/in/jonnesaleva), [twitter](https://twitter.com/jonnesaleva)
-- email: jonne.k.saleva (at) pm.me
+- email: jonne (at) jonnesaleva (dot) com
 
 </div>
 
