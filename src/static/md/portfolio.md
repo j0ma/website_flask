@@ -29,6 +29,7 @@ Here are some projects I am working / have worked on, mostly centered around mac
 ### current work
 
 - building search engines based on word embeddings at [haave](https://www.haave.io) (aka *muh job*, 😎)
+- building a corpus of yiddish texts in various ortographies ([link](https://github.com/j0ma/in-geveb-corpus), *in progress*)
 - yiddish orthographic normalization & ocr (*in progress*)
 
 ### past work
