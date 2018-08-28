@@ -41,12 +41,12 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 ## projects, stuff, etc.
 
 - [Portfolio](/portfolio) of my past work related to machine learning
-- my [blog](http://blog.jonnesaleva.com) on NLP, machine learning, probability, and life in general.
+- My [Github](https://www.github.com/j0ma) profile
 
 ## coursework
 
 - Coursera: Advanced Machine Learning Specialization (<small>in progress</small>)
-- Coursera: Algorithms & Data Structures Specialization(<small>in progress</small>)
+- Coursera: Algorithms & Data Structures Specialization (<small>in progress</small>)
 - AM 207: Stochastic Methods for Optimization and Inference
 - CS 207: Systems Building for Computational Science
 - CS 181: Machine Learning
