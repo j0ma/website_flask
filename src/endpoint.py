@@ -31,3 +31,16 @@ def portfolio():
 @app.route('/resume', strict_slashes=False)
 def resume():
     return redirect(RESUME_URL)
+
+@app.route('/baconipsum', methods=['POST'], strict_slashes=False)
+def load_baconipsum():
+    request_json = request.get_json()
+    username = request_json['username']
+    pw = request_json['username']
+    assert username == 'sampleuser'
+    assert password == 'samplepassword'
+    with open('~/corpus_preprocessing_auth/baconipsum_document_corpus.csv', 'r') as f:
+        txt = f.read()
+    response = {}
+    response['result'] = txt
+    return jsonify(response)
