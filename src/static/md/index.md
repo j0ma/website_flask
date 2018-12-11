@@ -16,8 +16,6 @@
 
   <td>[Resume](/resume)</td>
 
-  <td>[Blog](http://blog.jonnesaleva.com)</td>
-
 </tr>
 
 </thead>
@@ -42,6 +40,7 @@ I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focu
 
 - [Portfolio](/portfolio) of my past work related to machine learning
 - My [Github](https://www.github.com/j0ma) profile
+- My [resume](/resume)
 
 ## coursework
 
