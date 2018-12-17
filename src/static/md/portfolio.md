@@ -16,8 +16,6 @@
 
   <td>[Resume](/resume)</td>
 
-  <td>[Blog](http://blog.jonnesaleva.com)</td>
-
 </tr>
 
 </thead>
