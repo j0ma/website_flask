@@ -28,13 +28,13 @@
 
 Originally from Finland, I'm a graduate of Harvard College, where I got a B.A. in Statistics, with a good bit of Computer Science and Yiddish thrown into the mix. 
 
-I'm currently working as a Data Scientist at [Haave](https://www.haave.io), focusing on Natural Language Processing and Information Retrieval.
+I'm currently working as an NLP Engineer at [Think-A-Move](https://www.tamrd.com), focused on building Conversational AI solutions for U.S. Army Ranger Medics, as well as on other Natural Language Processing and Information Retrieval tasks.
 
 ## research, teaching, etc.
 
 - Research on low-resource ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>* 
 - Teaching Fellow, *Stat 139: Introduction to Statistical Modeling <small>(2015)</small>* 
-- Research / Data Science Intern, *CS50: Introduction to Computer Science <small>(2015)</small>* 
+- Research Intern, *CS50: Introduction to Computer Science <small>(2015)</small>* 
 
 ## projects, stuff, etc.
 
