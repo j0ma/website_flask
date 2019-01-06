@@ -26,7 +26,7 @@ Here are some projects I am working / have worked on, mostly centered around mac
 
 ### current work
 
-- building other conversational ai solutions for medics in the u.s. army ranger battalion (aka *muh job* 😎)
+- building dialogue systems for u.s. army ranger medics (aka *muh job* 😎)
 - building a corpus of yiddish texts in various ortographies ([link](https://github.com/j0ma/in-geveb-corpus), *in progress*)
 - yiddish orthographic normalization & ocr (*in progress*)
 
