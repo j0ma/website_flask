@@ -28,7 +28,6 @@ My main interests are machine learning and language. But since that kind of cove
 
 - **representation learning:** instead of word vectors, can we engineer representations for universal linguistic primitives like IPA? what about unicode? 
 - **low-resource speech recognition:** what to do when there are (almost) no resources available for a language?
-- **"meta" machine learning:** bayesian optimization in training, hyperparameter selection. also learning-to-learn, like composing primitive operations to learn representations of categories.
 
 Beyond the above, I'm generally curious about bayesian machine learning and the many fields utilizing probabilistic models to solve their problems.
 
