@@ -28,7 +28,7 @@
 
 Originally from Finland, I'm a graduate of Harvard College, where I got a B.A. in Statistics, with a good bit of Computer Science and Yiddish thrown into the mix. 
 
-I'm currently working as an NLP Engineer at [Think-A-Move](https://www.tamrd.com), focused on building Conversational AI solutions for U.S. Army Ranger Medics.
+I'm currently working as an NLP Engineer at [Think-A-Move](http://www.tamrd.com), focused on building Conversational AI solutions for U.S. Army Ranger Medics.
 
 ## research, teaching, etc.
 
