@@ -41,7 +41,7 @@ I also love well-made visualizations, and strongly believe that we ought to visu
 
 <tr>
 
-  <td>© Jonne Sälevä, 2018 || inspired by [cfdenton](https://cfdenton.github.io)</td>
+  <td>© Jonne Sälevä, 2019 || inspired by [cfdenton](https://cfdenton.github.io)</td>
 
 </tr>
 

@@ -44,7 +44,7 @@ Here are some projects I am working / have worked on, mostly centered around mac
 
 <tr>
 
-  <td>© Jonne Sälevä, 2018 || inspired by [cfdenton](https://cfdenton.github.io)</td>
+  <td>© Jonne Sälevä, 2019 || inspired by [cfdenton](https://cfdenton.github.io)</td>
 
 </tr>
 

@@ -66,7 +66,7 @@ I'm currently working as an NLP Engineer at [Think-A-Move](http://www.tamrd.com)
 
 <tr>
 
-  <td>© Jonne Sälevä, 2018 || inspired by [cfdenton](https://cfdenton.github.io)</td>
+  <td>© Jonne Sälevä, 2019 || inspired by [cfdenton](https://cfdenton.github.io)</td>
 
 </tr>
 
