@@ -23,8 +23,9 @@
 ---
 
 <div id='container'>
+My main interest lies in human language technology, i.e. the intersection of machine learning and language. 
 
-My main interest lies in human language technology, i.e. the intersection of machine learning and language. A low-dimensional projection of my interests could be:
+A low-dimensional projection of my interests could be:
 
 - **low-resource languages:** what to do when there are (almost) no resources available for a language? can we leverage unsupervised/weakly supervised methods or transfer learning?
 - **morphologically rich languages:** what to do when, unlike English, a language is very morphologically rich, and minor morphological changes induce vast changes in meaning? My native Finnish is a great example of such a language.

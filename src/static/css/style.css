@@ -3,6 +3,10 @@ ul {
     margin-bottom: 0px;
 }
 
+li {
+    margin-top: 4px;
+}
+
 table {
     padding: 20px;
 }
