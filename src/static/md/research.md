@@ -24,14 +24,14 @@
 
 <div id='container'>
 
-My main interests are machine learning and language. But since that kind of covers almost everything, a low-dimensional projection of my interests could be:
+My main interest lies in human language technology, i.e. the intersection of machine learning and language. A low-dimensional projection of my interests could be:
 
-- **representation learning:** instead of word vectors, can we engineer representations for universal linguistic primitives like IPA? what about unicode? 
-- **low-resource language technology:** what to do when there are (almost) no resources available for a language? can we leverage unsupervised/weakly supervised methods or transfer learning?
+- **low-resource languages:** what to do when there are (almost) no resources available for a language? can we leverage unsupervised/weakly supervised methods or transfer learning?
+- **morphologically rich languages:** what to do when, unlike English, a language is very morphologically rich, and minor morphological changes induce vast changes in meaning? My native Finnish is a great example of such a language, almost to the point of being an "adversarial example" for many multilingual NLP tasks.
+- **linguistic annotation and resource creation**: how do we efficiently create annotated resources for the vast number of under-resourced languages such that the resources themselves to computerized analysis?
+- **representation learning:** instead of word vectors, can we engineer dense representations for universal linguistic primitives like IPA? what about unicode, which would allow operations like `ADD-DIACRITIC` to be encoded as vectors?
 
-Beyond the above, I'm generally curious about bayesian methods in machine learning and the many fields utilizing probabilistic models to solve their problems.
-
-I also love well-made visualizations, and strongly believe that we ought to visualize not only raw data, but model inferences and uncertainty as well. I admit I've been influenced by [Andrew Gelman](http://www.andrewgelman.com) in this regard.
+Beyond the above, I'm generally curious about Bayesian methods in machine learning and the many fields utilizing probabilistic models to solve their problems.
 
 </div>
 
