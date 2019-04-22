@@ -38,7 +38,7 @@ I'm currently working as an NLP Engineer at [Think-A-Move](http://www.tamrd.com)
 
 ## projects, stuff, etc.
 
-- [Portfolio](/portfolio) of my past work related to machine learning
+- [Portfolio](/portfolio) of my past work
 - My [Github](https://www.github.com/j0ma) profile
 - My [resume](/resume)
 
