@@ -32,7 +32,7 @@ I'm currently working as an NLP Engineer at [Think-A-Move](http://www.tamrd.com)
 
 ## research, teaching, etc.
 
-- Research on low-resource ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>* 
+- Research on low-resource NLP/ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>* 
 - Teaching Fellow, *Stat 139: Introduction to Statistical Modeling <small>(2015)</small>* 
 - Research Intern, *CS50: Introduction to Computer Science <small>(2015)</small>* 
 
