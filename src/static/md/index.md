@@ -44,8 +44,6 @@ I'm currently working as an NLP Engineer at [Think-A-Move](http://www.tamrd.com)
 
 ## coursework
 
-- Coursera: Advanced Machine Learning Specialization (<small>in progress</small>)
-- Coursera: Algorithms & Data Structures Specialization (<small>in progress</small>)
 - AM 207: Stochastic Methods for Optimization and Inference
 - CS 207: Systems Building for Computational Science
 - CS 181: Machine Learning
