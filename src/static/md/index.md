@@ -30,8 +30,6 @@ Originally from Finland, I'm currently a Master's student at Brandeis University
 
 Prior to Brandeis, I graduated from Harvard College, where I got a B.A. in Statistics, with a good bit of Computer Science and Yiddish thrown into the mix. 
 
-I'm also currently working as an NLP Engineer at [Think-A-Move](http://www.tamrd.com), focused on building Conversational AI solutions for U.S. Army Ranger Medics.
-
 ## research, teaching, etc.
 
 - Research on low-resource NLP/ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>* 
