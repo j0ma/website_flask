@@ -44,6 +44,9 @@ Prior to Brandeis, I graduated from Harvard College, where I got a B.A. in Stati
 
 ## coursework
 
+- CS 217B: Natural Language Processing Systems
+- LING 131A: Natural Language Processing with Python
+- CS 21A: Data Structures and Algorithms
 - AM 207: Stochastic Methods for Optimization and Inference
 - CS 207: Systems Building for Computational Science
 - CS 181: Machine Learning
