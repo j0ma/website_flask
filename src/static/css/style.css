@@ -1,3 +1,11 @@
+a {
+    color: #0000EE;
+}
+
+a:visited {
+    color: #0000EE;
+}
+
 ul {
     margin-top: 0px;
     margin-bottom: 0px;

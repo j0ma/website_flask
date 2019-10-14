@@ -13,8 +13,7 @@
   <td>[Research](/research)</td>
 
   <td>[Portfolio](/portfolio)</td>
-
-  <td>[Resume](/resume)</td>
+<td>[Resume](/resume)</td>
 
 </tr>
 
@@ -30,13 +29,19 @@ Originally from Finland, I'm currently a Master's student at Brandeis University
 
 Prior to Brandeis, I graduated from Harvard College, where I got a B.A. in Statistics, with a good bit of Computer Science and Yiddish thrown into the mix. 
 
-## research, teaching, etc.
+## research and teaching
 
+- Teching Assistant, *Ling 160: Mathematical Methods for Linguistics <small>(2019)</small>*
 - Research on low-resource NLP/ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>* 
 - Teaching Fellow, *Stat 139: Introduction to Statistical Modeling <small>(2015)</small>* 
 - Research Intern, *CS50: Introduction to Computer Science <small>(2015)</small>* 
 
-## projects, stuff, etc.
+## work in industry
+
+- Natural Language Processing Engineer, *[Think-A-Move Ltd.](http://think-a-move.com/) <small>(2018-2019)</small>*
+- NLP Data Scientist, *[Haave Inc.](https://www.haave.io) <small>(2018)</small>*
+
+## past projects etc.
 
 - Some [stuff](/portfolio) I have worked on in the past
 - My [GitLab](https://www.gitlab.com/jonnesaleva) profile
@@ -55,7 +60,7 @@ Prior to Brandeis, I graduated from Harvard College, where I got a B.A. in Stati
 
 ## get in touch
 
-- any of: [github](https://www.github.com/j0ma), [linkedin](https://linkedin.com/in/jonnesaleva), [twitter](https://twitter.com/jonnesaleva)
+- any of: [gitlab](https://www.gitlab.com/jonnesaleva), [linkedin](https://linkedin.com/in/jonnesaleva), [twitter](https://twitter.com/jonnesaleva)
 - email: jonne (at) jonnesaleva (dot) com
 
 </div>
