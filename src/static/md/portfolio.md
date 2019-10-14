@@ -26,12 +26,13 @@ Here are some projects I am working / have worked on, mostly centered around mac
 
 ### current work
 
-- building dialogue systems for u.s. army ranger medics (aka *muh job* 😎)
-- building a corpus of yiddish texts in various ortographies ([link](https://github.com/j0ma/in-geveb-corpus), *in progress*)
+- research on low-resource machine translation
+- building a corpus of yiddish texts in various ortographies (*in progress*)
 - yiddish orthographic normalization & ocr (*in progress*)
 
 ### past work
 
+- building dialogue systems for u.s. army ranger medics (aka *muh job* 😎)
 - building search engines based on word embeddings at [haave](https://www.haave.io)
 - automatic speech recognition for extremely low-resource languages <small>(aka yiddish, lol)</small>
 - human-level essay grading using NLP and gradient boosted trees

@@ -38,15 +38,14 @@ Prior to Brandeis, I graduated from Harvard College, where I got a B.A. in Stati
 
 ## projects, stuff, etc.
 
-- [Portfolio](/portfolio) of my past work
-- My [Github](https://www.github.com/j0ma) profile
+- Some [stuff](/portfolio) I have worked on in the past
+- My [GitLab](https://www.gitlab.com/jonnesaleva) profile
 - My [resume](/resume)
 
 ## coursework
 
-- CS 217B: Natural Language Processing Systems
-- LING 131A: Natural Language Processing with Python
-- CS 21A: Data Structures and Algorithms
+- CS 217B: Named Entity Recognition Systems
+- CS 134A: Statistical and Neural Network Methods for NLP
 - AM 207: Stochastic Methods for Optimization and Inference
 - CS 207: Systems Building for Computational Science
 - CS 181: Machine Learning
