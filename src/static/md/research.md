@@ -41,7 +41,7 @@ A low-dimensional projection of my interests could be:
 
 <tr>
 
-  <td>© Jonne Sälevä, 2019 || inspired by [cfdenton](https://cfdenton.github.io)</td>
+  <td>© Jonne Sälevä, 2019</td>
 
 </tr>
 

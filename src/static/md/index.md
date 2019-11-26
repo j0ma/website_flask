@@ -71,7 +71,7 @@ Prior to Brandeis, I graduated from Harvard College, where I got a B.A. in Stati
 
 <tr>
 
-  <td>© Jonne Sälevä, 2019 || inspired by [cfdenton](https://cfdenton.github.io)</td>
+  <td>© Jonne Sälevä, 2019</td>
 
 </tr>
 
