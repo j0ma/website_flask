@@ -9,6 +9,7 @@ import os
 
 # constant
 RESUME_URL = 'https://j0ma.keybase.pub/resume/resume.pdf'
+YI_LREC_URL = 'https://gitlab.com/jonnesaleva/yiddish-lrec-2020'
 
 # set up application
 app = Flask(__name__)
@@ -31,3 +32,6 @@ def portfolio():
 def resume():
     return redirect(RESUME_URL)
 
+@app.route('/yi-lrec', strict_slashes=False)
+def yiddish():
+    return redirect(YI_LREC_URL)
