@@ -25,9 +25,9 @@
 
 <div id='container'>
 
-Originally from Finland, I'm currently a Master's student at Brandeis University, studying Computational Linguistics and Natural Language Processing. 
+Originally from Finland, I've been living in the U.S. for the past few years, and I'm currently studying Computational Linguistics and Natural Language Processing. 
 
-Prior to Brandeis, I graduated from Harvard College, where I got a B.A. in Statistics, with a good bit of Computer Science and Yiddish thrown into the mix. 
+My dream is to tackle the problem low-resource languages, and make Machine Learning methods work in tough situations with little to no labeled training data.
 
 ## research and teaching
 
