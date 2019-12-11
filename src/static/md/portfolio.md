@@ -27,8 +27,8 @@ Here are some projects I am working / have worked on, mostly centered around mac
 ### current work
 
 - research on low-resource machine translation
-- building a corpus of yiddish texts in various ortographies (*in progress*)
-- yiddish orthographic normalization & ocr (*in progress*)
+- a corpus of yiddish in various ortographies (*under review @ lrec*)
+- yiddish orthographic normalization (*in progress*)
 
 ### past work
 
