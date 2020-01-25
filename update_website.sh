@@ -1,5 +1,5 @@
 ./markdown_to_html.sh;
-git add .;
+git add --all;
 git commit -m "$1";
-git pull;
-git push;
+git pull origin;
+git push origin;
