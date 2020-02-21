@@ -22,7 +22,7 @@ do
 """
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Jonne Saleva</title>
+  <title>Jonne Sälevä</title>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="../static/css/style.css" type="text/css" />
 </head>
