@@ -10,7 +10,7 @@ do
   OUT_PATH=./src/templates/$STUB.html
 
   # convert the .md file to html and store the body in a variable
-  PAGE_BODY=$(pandoc -t html $f);
+  PAGE_BODY=$(pandoc --mathjax -t html $f);
 
   # remove old version of output HTML file
   rm $OUT_PATH;
@@ -25,6 +25,8 @@ do
   <title>Jonne Sälevä</title>
   <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="../static/css/style.css" type="text/css" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 """ >> $OUT_PATH;
 

@@ -45,6 +45,10 @@ def yiddish_paper():
 def discourse_relation_classification():
     return render_template('discourse-relation-classification.html')
 
+@app.route('/yelp-sentiment-analysis', strict_slashes=False)
+def yelp_sentiment_analysis():
+    return render_template('yelp-sentiment-analysis.html')
+
 @app.errorhandler(404)
 def not_found_error(error):
     return render_template('404.html'), 404
