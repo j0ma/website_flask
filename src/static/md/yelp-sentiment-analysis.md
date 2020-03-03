@@ -47,11 +47,15 @@ The gradient is computed as $\nabla L = \lambda\Theta - \frac{1}{M} \sum_i (\mat
 
 We run these together as a grid and work through the various values for the training set size $N$ and minibatch size $M$. 
 
+<center>
+
 ![Training set size vs accuracy](../static/img/training_set_size_vs_accuracy.png){height=20%}
 
 ![Minibatch size vs accuracy](../static/img/minibatch_size_vs_accuracy.png){height=20%}
 
 ![Heatmap & L2 penalty vs accuracy](../static/img/heatmap_l2_combined.png)
+
+</center>
 
 Overall, it seems like as long as the minibatch is not too small, and we take a large enough set as our training set (say, 1000 to 10000 samples), we gain all the accuracy we can, at least as measured on the development set. Beyond that, larger minibatches simply cause a lot of computational overhead without much gain. It would most likely have been useful to run the experiments several times and plot several curves for each experimental condition, in order to get an idea of the variance in the outcome. Based on the heatmap on the last page, we adopt $N=50000$ and $M=100$ as our settings for training set size and minibatch size for Experiment 3.
 
