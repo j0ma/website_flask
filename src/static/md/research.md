@@ -31,7 +31,7 @@ A low-dimensional projection of my interests could be:
 - **morphologically rich languages:** what to do when, unlike English, a language is very morphologically rich, and minor morphological changes induce vast changes in meaning? My native Finnish is a great example of such a language.
 - **linguistic annotation and resource creation**: how do we efficiently create annotated resources for the vast number of under-resourced languages such that the resources themselves to computerized analysis?
 - **representation learning:** instead of word vectors, can we engineer dense representations for universal linguistic primitives like IPA? what about unicode -- could we encode operations like `ADD-DIACRITIC` as vectors?
-- **(bayesian) statistical methodology and model comparison**: how do we _really_ know that model a performed better than model b on some task/dataset?
+- **bayesian methods and model comparison**: how can we add interpretable uncertainty estimates to our models? how do we _really_ know that model a performed better than model b on some task/dataset?
 
 </div>
 
@@ -41,7 +41,7 @@ A low-dimensional projection of my interests could be:
 
 <tr>
 
-  <td>© Jonne Sälevä, 2019</td>
+  <td>© Jonne Sälevä, 2020</td>
 
 </tr>
 

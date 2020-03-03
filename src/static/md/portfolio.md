@@ -22,22 +22,26 @@
 
 ---
 
-Here are some projects I am working / have worked on, mostly centered around machine learning, language, and structured prediction tasks. Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jonnesaleva) and get in touch if you have questions!
+Here are some projects I am working / have worked on, mostly centered around machine learning, language, and structured prediction tasks. 
+
+Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jonnesaleva) and get in touch if you have questions!
 
 ### current work
 
-- research on low-resource machine translation
-- a corpus of yiddish in various ortographies (*under review @ lrec*)
-- yiddish orthographic normalization (*in progress*)
+- [a corpus of yiddish in various ortographies](/yi-lrec) (*to appear @ lrec 2020*)
+- research on low-resource and morphology-aware machine translation
+- yiddish orthographic normalization & etymological clustering
 
-### past work
+### selected past projects
+
+- [discourse relation classification using neural networks](https://gitlab.com/jonnesaleva/discourse-relation-classification)
+- [yelp review sentiment analysis with stochastic gradient descent](https://gitlab.com/jonnesaleva/maxent-sgd-from-scratch)
+- this website (<small>powered by flask <3</small>)
+
+### past employment
 
 - building dialogue systems for u.s. army ranger medics at think-a-move
 - building search engines based on word embeddings at haave
-- automatic speech recognition for extremely low-resource languages <small>(aka yiddish, lol)</small>
-- human-level essay grading using NLP and gradient boosted trees
-- malware detection in xml logs using n-gram language models
-- this website (<small>powered by flask <3</small>)
 
 ---
 
@@ -45,7 +49,7 @@ Here are some projects I am working / have worked on, mostly centered around mac
 
 <tr>
 
-  <td>© Jonne Sälevä, 2019 </td>
+  <td>© Jonne Sälevä, 2020 </td>
 
 </tr>
 

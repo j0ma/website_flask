@@ -22,7 +22,6 @@
 ---
 
 <div id='profile'>![](../static/img/tacheles.png)</div>
-
 <div id='container'>
 
 Originally from Finland, I've been living in the U.S. for the past few years, and I'm currently studying Computational Linguistics and Natural Language Processing. 
@@ -71,7 +70,7 @@ Overall, my long-term goal is to tackle the problem of low-resource languages, a
 
 <tr>
 
-  <td>© Jonne Sälevä, 2019</td>
+  <td>© Jonne Sälevä, 2020</td>
 
 </tr>
 
