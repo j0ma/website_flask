@@ -48,8 +48,10 @@ Overall, my long-term goal is to tackle the problem of low-resource languages, a
 
 ## coursework
 
+- CS 217B: Machine Translation Seminar
 - CS 217B: Named Entity Recognition Systems
 - CS 134A: Statistical and Neural Network Methods for NLP
+- CS 140A: Annotation for Natural Language Processing
 - AM 207: Stochastic Methods for Optimization and Inference
 - CS 207: Systems Building for Computational Science
 - CS 181: Machine Learning
