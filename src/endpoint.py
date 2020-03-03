@@ -41,6 +41,10 @@ def yiddish():
 def yiddish_paper():
     return redirect(YI_LREC_PAPER_URL)
 
+@app.route('/discourse-relation-classification', strict_slashes=False)
+def discourse_relation_classification():
+    return render_template('discourse-relation-classification.html')
+
 @app.errorhandler(404)
 def not_found_error(error):
     return render_template('404.html'), 404

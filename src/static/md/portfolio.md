@@ -34,8 +34,13 @@ Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jo
 
 ### selected past projects
 
-- [discourse relation classification using neural networks](https://gitlab.com/jonnesaleva/discourse-relation-classification)
-- [yelp review sentiment analysis with stochastic gradient descent](https://gitlab.com/jonnesaleva/maxent-sgd-from-scratch)
+- discourse relation classification using neural networks
+  - [project writeup](/discourse-relation-classification)
+  - [gitlab repository](https://gitlab.com/jonnesaleva/discourse-relation-classification)
+- yelp review sentiment analysis with stochastic gradient descent
+  - [project writeup](/yelp-review-sentiment-analysis)
+  - [gitlab repository](https://gitlab.com/jonnesaleva/maxent-sgd-from-scratch)
+- [some old machine learning projects](https://gitlab.com/jonnesaleva/old-ml-projects)
 - this website (<small>powered by flask <3</small>)
 
 ### past employment
