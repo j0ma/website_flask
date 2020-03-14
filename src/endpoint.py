@@ -11,6 +11,7 @@ import os
 RESUME_URL = 'https://j0ma.keybase.pub/resume/resume.pdf'
 YI_LREC_URL = 'https://gitlab.com/jonnesaleva/yiddish-lrec-2020'
 YI_LREC_PAPER_URL = "https://bit.ly/37xrPX4"
+YI_CORPUS_URL = 'https://j0ma.keybase.pub/datasets/multi_orthography_parallel_corpus_of_yiddish_nouns.csv'
 
 # set up application
 app = Flask(__name__)
@@ -48,6 +49,10 @@ def discourse_relation_classification():
 @app.route('/yelp-sentiment-analysis', strict_slashes=False)
 def yelp_sentiment_analysis():
     return render_template('yelp-sentiment-analysis.html')
+
+@app.route('/multi-orthography-yiddish-corpus', strict_slashes=False)
+def corpus():
+    return redirect(YI_CORPUS_URL)
 
 @app.errorhandler(404)
 def not_found_error(error):
