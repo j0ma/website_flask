@@ -28,7 +28,9 @@ Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jo
 
 ### current work
 
-- [a multi-orthography corpus of yiddish nouns](/yi-lrec) (*to appear @ lrec 2020*)
+- a multi-orthography corpus of yiddish nouns (*to appear @ lrec 2020*)
+    - [gitlab repository](/yi-lrec)
+    - [corpus](/multi-orthography-yiddish-corpus)
 - research on low-resource and morphology-aware machine translation
 - yiddish orthographic normalization & etymological clustering
 
