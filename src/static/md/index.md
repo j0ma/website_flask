@@ -38,7 +38,7 @@ Overall, my long-term goal is to tackle the problem of low-resource languages, a
 ## work in industry
 
 - Natural Language Processing Engineer, *[Think-A-Move Ltd.](http://think-a-move.com/) <small>(2018-2019)</small>*
-- NLP Data Scientist, *[Haave Inc.](https://www.haave.io) <small>(2018)</small>*
+- NLP Data Scientist, *Haave Inc. <small>(2018)</small>*
 
 ## past projects etc.
 
