@@ -1,12 +1,22 @@
 import pypandoc
+import os
 
 HEADER_PATTERN='---'
+
+def load_blog_post(identifier, blog_path):
+    with open(f'{blog_path}/{identifier}.md', 'r') as f:
+        blog_post_content = f.read()
+        header_info, post = process_blog_post(blog_post_content)
+        title = header_info['title']
+
+    return title, post
 
 def load_blog_posts(blog_path):
     posts = [f.replace('.md', '') 
              for f in os.listdir(blog_path) 
              if f.endswith('md')]
     posts = sorted(posts)
+    return posts
 
 def find_all(pattern, text, start_ix=0):
     """

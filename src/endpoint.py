@@ -13,7 +13,7 @@ RESUME_URL = 'https://j0ma.keybase.pub/resume/resume.pdf'
 YI_LREC_URL = 'https://gitlab.com/jonnesaleva/yiddish-lrec-2020'
 YI_LREC_PAPER_URL = "https://bit.ly/37xrPX4"
 YI_CORPUS_URL = 'https://j0ma.keybase.pub/datasets/multi_orthography_parallel_corpus_of_yiddish_nouns.csv'
-BLOG_PATH='blog'
+BLOG_PATH=os.path.abspath('blog')
 
 # set up application
 app = Flask(__name__)
@@ -41,12 +41,9 @@ def blog():
         return abort(404)
 
 @app.route('/blog/<identifier>', strict_slashes=False)
-def blog_post(identifier="001-hello-world"):
+def blog_post(identifier):
     try:
-        with open(f'blog/{identifier}.txt', 'r') as f:
-            blog_post_content = f.read()
-            header_info, post = h.process_blog_post(blog_post_content)
-            title = header_info['title']
+        title, post = h.load_blog_post(identifier, BLOG_PATH)
         return render_template('blog-post.html', 
                                 post_title=title, 
                                 post_content=post)
