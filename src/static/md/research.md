@@ -30,6 +30,7 @@ My main interest lie in the field of human language technology, and generally ap
 - **unsupervised representation learning:** more generally, how can we engineer representations from unlabeled data? can we move beyond point estimates for things like word embeddings?
 - **sequence transduction problems**: machine translation, transliteration, grapheme-to-phoneme conversion, speech recognition, ...
 - **bayesian methods and model comparison**: how can we add interpretable uncertainty estimates to our models? how do we _really_ know that model a performed better than model b on some task/dataset?
+- **linguistic annotation and resource creation**: how do we efficiently create annotated resources for the vast number of under-resourced languages such that the resources themselves to computerized analysis?
 
 </div>
 
