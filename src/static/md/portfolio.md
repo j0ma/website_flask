@@ -34,7 +34,7 @@ Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jo
 ### selected past projects
 
 - a multi-orthography corpus of yiddish nouns (*published @ lrec 2020*)
-  - [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.119.pdf)
+  - [paper](https://www.aclweb.org/anthology/2020.lrec-1.119/)
   - [gitlab repository](/yi-lrec)
   - [corpus](/multi-orthography-yiddish-corpus)
 - discourse relation classification using neural networks
