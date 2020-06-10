@@ -33,7 +33,8 @@ Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jo
 
 ### selected past projects
 
-- a multi-orthography corpus of yiddish nouns (*to appear @ lrec 2020*)
+- a multi-orthography corpus of yiddish nouns (*published @ lrec 2020*)
+  - [paper](https://www.aclweb.org/anthology/2020.lrec-1.119/)
   - [gitlab repository](/yi-lrec)
   - [corpus](/multi-orthography-yiddish-corpus)
 - discourse relation classification using neural networks
@@ -42,7 +43,7 @@ Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jo
 - yelp review sentiment analysis with stochastic gradient descent
   - [project writeup](/yelp-sentiment-analysis)
   - [gitlab repository](https://gitlab.com/jonnesaleva/maxent-sgd-from-scratch)
-- [some old machine learning projects](https://gitlab.com/jonnesaleva/old-ml-projects)
+- [some old machine learning projects from undergrad](https://gitlab.com/jonnesaleva/old-ml-projects)
 - this website (<small>powered by flask <3</small>)
 
 ### past employment
