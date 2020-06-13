@@ -26,7 +26,7 @@
 
 Originally from Finland, I'm currently a graduate student at Brandeis University, studying Computational Linguistics and Natural Language Processing.
 
-Overall, my long-term goal is to tackle the problem of low-resource languages, and make Machine Learning methods work in tough situations with little to no labeled training data.
+Research-wise, I'm interested in tackling the problem of low-resource languages, and make machine learning methods work in tough situations with little to no labeled training data.
 
 ## research and teaching
 
@@ -38,7 +38,7 @@ Overall, my long-term goal is to tackle the problem of low-resource languages, a
 
 ## work in industry
 
-- Natural Language Processing Engineer, *[Think-A-Move Ltd.](http://think-a-move.com/) <small>(2018-2019)</small>*
+- NLP Engineer, *[Think-A-Move Ltd.](http://think-a-move.com/) <small>(2018-2019)</small>*
 - NLP Data Scientist, *[Haave Inc.](http://www.haave.io) <small>(2018)</small>*
 
 ## past projects etc.
