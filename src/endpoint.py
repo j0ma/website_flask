@@ -10,7 +10,7 @@ import os
 # constant
 RESUME_URL = 'https://j0ma.keybase.pub/resume/resume.pdf'
 YI_LREC_URL = 'https://gitlab.com/jonnesaleva/yiddish-lrec-2020'
-YI_LREC_PAPER_URL = "https://bit.ly/37xrPX4"
+YI_LREC_PAPER_URL = "http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.119.pdf"
 YI_CORPUS_URL = 'https://j0ma.keybase.pub/datasets/multi_orthography_parallel_corpus_of_yiddish_nouns.csv'
 
 # set up application
