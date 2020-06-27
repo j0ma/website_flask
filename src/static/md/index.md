@@ -24,17 +24,17 @@
 <div id='profile'>![](../static/img/jonne-face-dec2019-4.png)</div>
 <div id='container'>
 
-Originally from Finland, I'm currently a graduate student at Brandeis University, studying Computational Linguistics and Natural Language Processing.
+Originally from Finland, I'm currently a graduate student at Brandeis University, working on Natural Language Processing and Machine Learning. 
 
-Overall, my long-term goal is to tackle the problem of low-resource languages, and make Machine Learning methods work in tough situations with little to no labeled training data.
+Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Statistics with a fair bit of Computer Science, Applied Mathematics and Yiddish thrown into the mix.
 
 ## research and teaching
 
 - Research Assistant, *Computational Structure of Language Lab <small>(2019-2020)</small>*
 - Teching Assistant, *Ling 160: Mathematical Methods for Linguistics <small>(2019)</small>*
-- Research on low-resource NLP/ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>* 
-- Teaching Fellow, *Stat 139: Introduction to Statistical Modeling <small>(2015)</small>* 
-- Research Intern, *CS50: Introduction to Computer Science <small>(2015)</small>* 
+- Research on low-resource NLP/ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>*
+- Teaching Fellow, *Stat 139: Introduction to Statistical Modeling <small>(2015)</small>*
+- Research Intern, *CS50: Introduction to Computer Science <small>(2015)</small>*
 
 ## work in industry
 
