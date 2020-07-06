@@ -4,6 +4,7 @@
 # imports
 from flask import Flask, request, jsonify, abort, render_template, redirect
 from flask_cors import CORS
+import src.helpers as h
 import logging
 import os
 
@@ -12,6 +13,7 @@ RESUME_URL = 'https://j0ma.keybase.pub/resume/resume.pdf'
 YI_LREC_URL = 'https://gitlab.com/jonnesaleva/yiddish-lrec-2020'
 YI_LREC_PAPER_URL = "http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.119.pdf"
 YI_CORPUS_URL = 'https://j0ma.keybase.pub/datasets/multi_orthography_parallel_corpus_of_yiddish_nouns.csv'
+BLOG_PATH=os.path.abspath('blog')
 
 # set up application
 app = Flask(__name__)
@@ -29,6 +31,24 @@ def research():
 @app.route('/portfolio', strict_slashes=False)
 def portfolio():
     return render_template('portfolio.html')
+
+@app.route('/blog', strict_slashes=False)
+def blog():
+    try:
+        posts = h.load_blog_posts(BLOG_PATH)
+        return render_template('blog.html', posts=posts)
+    except:
+        return abort(404)
+
+@app.route('/blog/<identifier>', strict_slashes=False)
+def blog_post(identifier):
+    try:
+        title, post = h.load_blog_post(identifier, BLOG_PATH)
+        return render_template('blog-post.html', 
+                                post_title=title, 
+                                post_content=post)
+    except:
+        return abort(404)
 
 @app.route('/resume', strict_slashes=False)
 def resume():
