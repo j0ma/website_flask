@@ -31,7 +31,6 @@ Feel free to check out the rest of my work on [Gitlab](https://www.gitlab.com/jo
 ### current work
 
 - research on low-resource and morphology-aware machine translation
-- yipy: a nlp toolkit for yiddish (*\<insert repo link here\>*)
 
 ### selected past projects
 
