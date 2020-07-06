@@ -3,7 +3,9 @@ title: Research principles for a replicable workflow
 author: Jonne Saleva
 ---
 
-This fall, I will begin my Ph.D. in Computer Science at Brandeis, where I'll be working on low-resource and multilingual applications of NLP and machine learning. Obviously, I am very excited, but based on my first year of research experience during my M.S., I've recently started to feel that it would be beneficial to establish a set of **research principles** that can help avoid noob-level pitfalls and make the research more replicable.
+This fall, I will begin my Ph.D. in Computer Science at Brandeis, where I'll be working on low-resource and multilingual applications of NLP and machine learning. 
+
+Obviously, I am very excited, but based on my first year of research experience during my M.S., I've recently started to feel that it would be beneficial to establish a set of **research principles** that can help avoid noob-level pitfalls and make the research more replicable.
 
 With that in mind, here are some I came up with:
 
