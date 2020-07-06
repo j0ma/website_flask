@@ -16,6 +16,8 @@
 
   <td>[Resume](/resume)</td>
 
+  <td>[Blog](/blog)</td>
+
 </tr>
 
 </thead>
