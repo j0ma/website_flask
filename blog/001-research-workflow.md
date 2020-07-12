@@ -1,13 +1,15 @@
 ---
-title: Research principles for a replicable workflow
+title: Ideas for research workflow
 author: Jonne Saleva
 ---
 
 This fall, I will begin my Ph.D. in Computer Science at Brandeis, where I'll be working on low-resource and multilingual applications of NLP and machine learning. 
 
-Obviously, I am very excited, but based on my first year of research experience during my M.S., I've recently started to feel that it would be beneficial to establish a set of **research principles** that can help avoid noob-level pitfalls and make the research more replicable.
+Obviously, I am very excited, but based on my research experience during my M.S., it's definitely way too easy to make a few mistakes / take a few shortcuts, only to end up with absolute spaghetti code that's impossible for anyone to understand -- even your future self. 
 
-With that in mind, here are some I came up with:
+With this in mind, I've recently started to feel it would be beneficial to establish a **principled research workflow** that can help me avoid noob-level mistakes and make the research code more understandable/replicable/maintainable/`<whatever>`.
+
+Real quick, here are some ideas I came up with:
 
 - Use `cookiecutter` to have a common directory structure
 - Use modular scripts. For example:
@@ -37,5 +39,7 @@ With that in mind, here are some I came up with:
     - Environment information
     - Experimental results
 - Use `tensorboard` for logging
+- Plan for extensibility, avoid taking "hacky" shortcuts.
+    - Seriously, these will cost you later. :)
 
-Some of these I've already incorporated into my workflow, while some of these are still a work in progress. I think my next big push will be to get myself used to using `runx` and `tensorboard`
+Some of these I've already incorporated into my workflow, while others are still a work in progress. It'll definitely be exciting to refer back to this list in the future!
