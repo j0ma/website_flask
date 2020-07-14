@@ -26,7 +26,7 @@
 
 <div id='container'>
 
-My main interest lie in the field of human language technology, and generally applying machine learning to language.  Some examples include:
+My main interests lie in the field of human language technology, and generally applying machine learning to language.  Some examples include:
 
 - **low-resource + morphologically rich languages:** how can we have better representations inside, e.g. a neural machine translation model, such that morphology is captured in a systematic way?
 - **unsupervised representation learning:** more generally, how can we engineer representations from unlabeled data? can we move beyond point estimates for things like word embeddings?
