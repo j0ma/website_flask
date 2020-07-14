@@ -31,7 +31,7 @@ Originally from Finland, I'm currently a graduate student at Brandeis University
 
 Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Statistics with a fair bit of Computer Science, Applied Mathematics and Yiddish thrown into the mix.
 
-Research-wise, I'm interested in tackling the problem of low-resource languages, and make machine learning methods work in tough situations with little to no labeled training data.
+Research-wise, I'm interested in tackling the problem of low-resource languages, and making machine learning methods work in tough situations with little to no labeled training data.
 
 ## research and teaching
 

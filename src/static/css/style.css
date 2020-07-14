@@ -9,8 +9,16 @@
 	.col { flex-grow: 1; }
 }
 
+ul li {
+    /*padding-top: .5em;*/
+    padding-bottom: .2em;
+}
+
 img {
-	max-width: 100%;
+    height: auto;
+	max-width: 40%;
+    padding-bottom: .5em;
+    padding-top: .5em;
 }
 
 .grid {
@@ -41,7 +49,7 @@ img {
 body {
 	margin: auto;
 	padding: 1em;
-	max-width: 64em;
+	max-width: 47em;
 	font-family: "courier new", monospace;
 	color: #fb5;
 	background: #111;
