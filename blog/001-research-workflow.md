@@ -41,5 +41,6 @@ Real quick, here are some ideas I came up with:
 - Use `tensorboard` for logging
 - Plan for extensibility, avoid taking "hacky" shortcuts.
     - Seriously, these will cost you later. :)
+- Start from the end-product
 
 Some of these I've already incorporated into my workflow, while others are still a work in progress. It'll definitely be exciting to refer back to this list in the future!
