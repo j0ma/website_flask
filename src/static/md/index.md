@@ -24,7 +24,7 @@
 
 ---
 
-<div id='profile'>![](../static/img/jonne-face-dec2019-4.png)</div>
+<div id='profile'>![](../static/img/jonne-face-dec2019-smol.png)</div>
 <div id='container'>
 
 Originally from Finland, I'm currently a graduate student at Brandeis University, working on Natural Language Processing and Machine Learning. 
