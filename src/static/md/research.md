@@ -29,7 +29,6 @@
 Broadly speaking, I'm interested in statistical machine learning and applying it to language.
 
 - **low-resource + morphologically rich languages:**
-    - how do we efficiently create annotated datasets and other resources for the "long tail" of under-resourced languages?
     - how can we have better representations inside NMT models such that morphology is captured in a systematic way?
     - can we capture the relatedness of languages using _partial pooling_ and hierarchical Bayes?
 - **representation learning & latent variable models:**
