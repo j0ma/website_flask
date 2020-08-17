@@ -27,7 +27,7 @@
 <div id='profile'>![](../static/img/jonne-face-dec2019-smol.png)</div>
 <div id='container'>
 
-Originally from Finland, I'm currently a graduate student at Brandeis University, working on Natural Language Processing and Machine Learning. 
+Originally from Finland, I'm currently a Ph.D. student in Computer Science at Brandeis University, working on Natural Language Processing and Machine Learning with [Prof. Constantine Lignos](https://lignos.org).
 
 Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Statistics with a fair bit of Computer Science, Applied Mathematics and Yiddish thrown into the mix.
 
