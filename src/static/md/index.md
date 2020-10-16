@@ -29,12 +29,13 @@
 
 Originally from Finland, I'm currently a Ph.D. student in Computer Science at Brandeis University, working on Natural Language Processing and Machine Learning with [Prof. Constantine Lignos](https://lignos.org).
 
-Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Statistics with a fair bit of Computer Science, Applied Mathematics and Yiddish thrown into the mix.
-
 Research-wise, I'm interested in tackling the problem of low-resource languages, and making machine learning methods work in tough situations with little to no labeled training data.
+
+Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Statistics with a fair bit of Computer Science, Applied Mathematics and Yiddish thrown into the mix.
 
 ## research and teaching
 
+- Teching Assistant, *CS114a: Introduction to NLP with Python <small>(2020)</small>*
 - Research Assistant, *Computational Structure of Language Lab <small>(2019-2020)</small>*
 - Teching Assistant, *Ling 160: Mathematical Methods for Linguistics <small>(2019)</small>*
 - Research on low-resource NLP/ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>*
