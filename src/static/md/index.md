@@ -12,7 +12,7 @@
 
   <td>[Research](/research)</td>
 
-  <td>[Portfolio](/portfolio)</td>
+  <td>[Projects](/projects)</td>
 
   <td>[Resume](/resume)</td>
 
@@ -49,22 +49,22 @@ Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Stat
 
 ## past projects etc.
 
-- Some [stuff](/portfolio) I have worked on in the past
+- Some [stuff](/projects) I have worked on in the past
 - My [GitLab](https://www.gitlab.com/jonnesaleva) profile
 - My [resume](/resume)
 
-## coursework
+<!--## coursework-->
 
-- CS 217B: Machine Translation Seminar
-- CS 217B: Named Entity Recognition Systems
-- CS 134A: Statistical and Neural Network Methods for NLP
-- CS 140A: Annotation for Natural Language Processing
-- AM 207: Stochastic Methods for Optimization and Inference
-- CS 207: Systems Building for Computational Science
-- CS 181: Machine Learning
-- CS 109: Data Science
-- Stat 111: Statistical Inference
-- Stat 110: Probability Theory
+<!--- CS 217B: Machine Translation Seminar-->
+<!--- CS 217B: Named Entity Recognition Systems-->
+<!--- CS 134A: Statistical and Neural Network Methods for NLP-->
+<!--- CS 140A: Annotation for Natural Language Processing-->
+<!--- AM 207: Stochastic Methods for Optimization and Inference-->
+<!--- CS 207: Systems Building for Computational Science-->
+<!--- CS 181: Machine Learning-->
+<!--- CS 109: Data Science-->
+<!--- Stat 111: Statistical Inference-->
+<!--- Stat 110: Probability Theory-->
 
 ## get in touch
 

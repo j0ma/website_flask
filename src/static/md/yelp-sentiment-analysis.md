@@ -10,7 +10,7 @@
 
   <td>[Research](/research)</td>
 
-  <td>[Portfolio](/portfolio)</td>
+  <td>[Projects](/projects)</td>
 
   <td>[Resume](/resume)</td>
 

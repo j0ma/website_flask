@@ -28,9 +28,9 @@ def index():
 def research():
     return render_template('research.html')
 
-@app.route('/portfolio', strict_slashes=False)
-def portfolio():
-    return render_template('portfolio.html')
+@app.route('/projects', strict_slashes=False)
+def projects():
+    return render_template('projects.html')
 
 @app.route('/blog', strict_slashes=False)
 def blog():
