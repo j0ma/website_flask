@@ -27,7 +27,7 @@
 <div id='profile'>![](../static/img/jonne-face-dec2019-smol.png)</div>
 <div id='container'>
 
-Originally from Finland, I'm currently a Ph.D. student in Computer Science at Brandeis University, working on Natural Language Processing and Machine Learning with [Prof. Constantine Lignos](https://lignos.org).
+Originally from the Finnish Arctic, I'm currently a Ph.D. student in Computer Science at Brandeis University, working on Natural Language Processing and Machine Learning with [Prof. Constantine Lignos](https://lignos.org).
 
 Research-wise, I'm interested in tackling the problem of low-resource languages, and making machine learning methods work in tough situations with little to no labeled training data.
 
