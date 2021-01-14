@@ -33,9 +33,10 @@ Research-wise, I'm interested in tackling the problem of low-resource languages,
 
 Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Statistics with a fair bit of Computer Science, Applied Mathematics and Yiddish thrown into the mix.
 
-## research and teaching
+## academic activities
 
 - Teching Assistant, *CS114a: Introduction to NLP with Python <small>(2020)</small>*
+- Studentship @ MILA, *Deep Learning & Reinforcement Learning Summer School <small>(2020)</small>*
 - Research Assistant, *Computational Structure of Language Lab <small>(2019-2020)</small>*
 - Teching Assistant, *Ling 160: Mathematical Methods for Linguistics <small>(2019)</small>*
 - Research on low-resource NLP/ASR, *Stat 99: Senior Tutorial <small>(2016-2017)</small>*
@@ -49,22 +50,9 @@ Prior to Brandeis, I graduated from Harvard College, where I got an A.B. in Stat
 
 ## past projects etc.
 
-- Some [stuff](/projects) I have worked on in the past
+- My [projects page](/projects) 
 - My [GitLab](https://www.gitlab.com/jonnesaleva) profile
 - My [resume](/resume)
-
-<!--## coursework-->
-
-<!--- CS 217B: Machine Translation Seminar-->
-<!--- CS 217B: Named Entity Recognition Systems-->
-<!--- CS 134A: Statistical and Neural Network Methods for NLP-->
-<!--- CS 140A: Annotation for Natural Language Processing-->
-<!--- AM 207: Stochastic Methods for Optimization and Inference-->
-<!--- CS 207: Systems Building for Computational Science-->
-<!--- CS 181: Machine Learning-->
-<!--- CS 109: Data Science-->
-<!--- Stat 111: Statistical Inference-->
-<!--- Stat 110: Probability Theory-->
 
 ## get in touch
 
